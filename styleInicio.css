@@ -6,9 +6,25 @@
     margin: none;
 }
 
+@media screen and (max-width:400px) {
+    .kiriko{
+        width: 100%;
+        height: 400px;
+    }
+}
+
 @media screen and (max-width: 520px) {
     .kiriko{
         width: 100%;
         height: 400px;
     }
 }
+
+@media screen and (max-width:768px) {
+    .kiriko{
+        width: 100%;
+        height: 400px;
+    }
+}
+
+
