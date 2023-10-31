@@ -6,24 +6,11 @@
     margin: none;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:414px) {
     .logo{
         width: 100%;
         height: 400px;
-    }
-}
-
-@media screen and (max-width: 520px) {
-    .logo{
-        width: 100%;
-        height: 400px;
-    }
-}
-
-@media screen and (max-width:768px) {
-    .logo{
-        width: 100%;
-        height: 400px;
+        height: 700px;
     }
 }
 
