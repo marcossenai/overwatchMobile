@@ -7,21 +7,21 @@
 }
 
 @media screen and (max-width:400px) {
-    .kiriko{
+    .logo{
         width: 100%;
         height: 400px;
     }
 }
 
 @media screen and (max-width: 520px) {
-    .kiriko{
+    .logo{
         width: 100%;
         height: 400px;
     }
 }
 
 @media screen and (max-width:768px) {
-    .kiriko{
+    .logo{
         width: 100%;
         height: 400px;
     }
